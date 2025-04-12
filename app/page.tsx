@@ -412,7 +412,7 @@ export default function LandingPage() {
               </div>
 
               <a
-                href="https://discord.gg/Qh9rbGvDU5"
+                href="https://discord.gg/VHH5kxzkMM"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex h-12 items-center justify-center rounded-md bg-[#5865F2] px-8 text-base font-medium text-white shadow transition-all duration-200 hover:bg-[#4752c4] hover:scale-105 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#5865F2]"
